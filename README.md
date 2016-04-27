@@ -1,6 +1,6 @@
 # Gesture Recognizer
 
-This program identifies gestures based on motion estimation. The image motion is calculated using the Lucas and Kaneda Algorithm. The program is able to detect the following gestures:
+This program identifies gestures based on motion estimation. The image motion is calculated using the Lucas and Kanade Algorithm. The program is able to detect the following gestures:
 
 * Movement to the right
 * Movement to the left
